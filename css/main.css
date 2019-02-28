@@ -1,0 +1,11 @@
+.myList {
+    border-style: solid;
+    list-style: none;
+    border-width: 2px;
+    margin-right: 1200px;
+    border-color: gray;
+}
+
+.linethrough {
+    text-decoration: line-through;
+}
